@@ -3,7 +3,8 @@
 ## Message:
 Folks here is one of my first code in python, creating a calculator with SOLID principals.
 
-This link that I am providing is very explanatory what are the  **SOLID principals**.
+This link that I am providing is very explanatory what are the  **SOLID principals** 
+check it out:https://medium.com/@mauro.canuto88/solid-principles-3836650e1751
 
 ## Same of the code:
 Here is a small example to whet your appetite:
